@@ -1,0 +1,8 @@
+Ce dossier contiendra les images du site. 
+
+Images nécessaires :
+- hero-japan.jpg (image principale d'en-tête)
+- tokyo.jpg (pour le circuit "Découverte Classique")
+- fuji.jpg (pour le circuit "Nature et Traditions")
+- onsen.jpg (pour le circuit "Japon Authentique")
+- Autres images de paysages et sites japonais
